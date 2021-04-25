@@ -4,7 +4,7 @@ Employee Management System:
 Create an app that allows the users to create and manage Employee Database. The database consists of three tables employee, role, and department. The user has the following options in the main menu.
 
 the link to github is shown below: 
-
+https://github.com/Nicog124/ems-hw12
 
 Table of Contents
 User Story
